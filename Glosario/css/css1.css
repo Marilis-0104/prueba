@@ -1,0 +1,59 @@
+.tabla{
+    margin: 2em 9em;
+    font-family: cursive;
+    
+}
+.inicio{
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    font-family: cursive; 
+}
+.contenido{
+    font-size: 15px;
+    text-align: center;
+    font-family: cursive;
+    
+}
+.titulo_tabla{
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+    color: darkgray;
+}
+.titulo2{
+    text-align: left;
+    font-size: 15px;
+    font-family: cursive;
+    margin: 1em 9em;
+    color: currentColor;
+}
+.head_body{
+    font-family: cursive;
+    margin: 0em 1em;  
+    color: currentColor;
+    font-size: 15px;
+}
+.inf{
+    text-align: left;
+    font-family: cursive;
+    margin: 1em 7em;  
+    color: currentColor;
+    font-size: 15px;
+}
+.pt{
+    font-family: cursive;
+    margin: 1em 10em;  
+    color: currentColor;
+    font-size: 15px; 
+}
+.parrafo{
+    margin: 1em 9em;
+    font-family: cursive;
+}
+.hed{
+    margin: 0em 10em;
+    font-family: cursive;
+}
+
+
